@@ -41,6 +41,7 @@ The Classic Sql ban but rework for style
 
 > Its totaly normal if u see the following image, its because u have 0 people ban in ur db. When you will banned some one, it will stop spam
 
+![image](https://github.com/user-attachments/assets/276a7bf3-007a-4d9c-a7e4-9739bb2a0853)
 
 *Peace and thx to download <3*
 
@@ -77,5 +78,7 @@ Le Sql BAN Classic mais remodeler pour le style
 ### Dernier truc :
 
 > C'est tout a fais normal si vous voyez l'erreur suivant dans votre console, c'est parce que vous avez 0 personne dans votre bdd, lorsquevous bannirez quelqun, sa arrêtera de spam l erreur
+
+![image](https://github.com/user-attachments/assets/ea5fa8a9-4b72-4aff-9b9d-6893724023ed)
 
 *Peace et merci d'avoir télécharger <3*
