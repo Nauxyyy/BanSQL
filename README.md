@@ -1,5 +1,12 @@
 # Ban SQL Fivem
 
+En :
+![image](https://github.com/user-attachments/assets/a7c57a1f-ea81-4fe1-b6f4-bc43d328e7e4)
+
+Fr :
+![image](https://github.com/user-attachments/assets/7cbaeeba-268f-4b68-9532-d7a24076ac05)
+
+
 ## EN : 
 
 The Classic Sql ban but rework for style 
